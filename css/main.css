@@ -21,13 +21,15 @@ ul {
 #contents, #favs, #facts, #types {
   color: #93a1a1;
 }
+
 .dfn > .wrapper {
   background-color: #b58900;
 }
 
-strong > .dfn + botanically {
+p + strong {
   color: #fff;
 }
+
 a:not(.no-highlight) {
   background-color: #719e07;
 }
